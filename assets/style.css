@@ -7,3 +7,7 @@ body {
     background-color: darkgray;
     font-family: 'Times New Roman', Times, serif
 }
+
+.row {
+    background-color: darkgray;
+}
